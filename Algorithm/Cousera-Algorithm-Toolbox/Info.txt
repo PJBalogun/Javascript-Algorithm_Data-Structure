@@ -1,0 +1,5 @@
+Video 4,5,6
+Stress Test: It's is a program that generates random tests in 
+            an infinite loop, and for each test it launches your solution
+            for the test and an alternative solution on the same test and
+            compare the result.
